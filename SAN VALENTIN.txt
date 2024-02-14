@@ -1,0 +1,51 @@
+<!DOCTYPE html >
+< html  lang =" es " >
+< cabeza >
+    < meta  juego de caracteres =" UTF-8 " >
+    < meta  nombre =" ventana gráfica " contenido =" ancho = ancho del dispositivo, escala inicial = 1,0 " >
+    < title > Flores Amarillas <3 </ title >
+    < enlace  rel =" hoja de estilo " href =" Css/style.css " >
+    < enlace  rel =" preconexión " href =" https://fonts.googleapis.com " >
+    < enlace  rel =" preconexión " href =" https://fonts.gstatic.com " crossorigin >
+    < enlace  href =" https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital@1&display=swap " rel =" hoja de estilo " >
+    <!--
+        Código Por: MartL7
+    -->
+</cabeza> _ _
+< cuerpo >
+
+    < div  class =" Contenedor-Binicio " >
+        < botón  clase =" Botón " id =" BVer " > Haga clic aquí </ botón >
+    </div> _ _
+
+    < div  class =" Con-Emergente " >
+        < div  id =" resultado " class =" cua " >
+            < p  id =" res " >
+                Hola, antes de iniciar, solo quiero recordarte que eres.
+                muy especial para mi, gracias por todo te doviuu mucho. <3
+            </p> _ _    
+            < botón  id =" BotonCerrar " clase =" Botón " > Cerrar </ botón >
+        </div> _ _
+    </div> _ _
+
+    < div  clase =" Con-2 " >
+        < h1  id =" Titulo " > Elige una opción </ h1 >
+        < div  class =" Con " >
+            < botón  clase =" Botón " id =" B1 " > 1 Flor </ botón >
+            < botón  clase =" Botón " id =" B12 " > 12 Flores :) </ botón >
+        </div> _ _
+    </div> _ _
+
+    < clase principal  =" Contenedor " >
+        < lienzo  id =" Flor " clase = " Flor " ancho =" 800 " alto = " 600 " > </lienzo>
+
+        < div  clase =" Texto " >
+            < h2  id =" Text " > Para mi pochichu</h2> _ _
+        </div> _ _
+
+    </principal> _ _
+
+    < script  src =" Js/app.js " > </ script >
+    < script  src =" Js/Dis.js " > </ script >
+</cuerpo> _ _
+</html> _ 
